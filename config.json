@@ -1,0 +1,7 @@
+{
+    "obswebsocket": {
+        "url": "127.0.0.1",
+        "port": 4455,
+        "password": "<INSERT PASSWORD HERE>"
+    }
+}

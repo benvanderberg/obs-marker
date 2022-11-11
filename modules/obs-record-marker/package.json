@@ -1,0 +1,11 @@
+{
+  "name": "obs-record-marker",
+  "version": "1.0.0",
+  "description": "A controller for connecting to OBS and adding markers for Adobe Premiere Pro.",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Vanderberg",
+  "license": "ISC"
+}
